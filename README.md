@@ -2,6 +2,8 @@
 
 Color Grado is a web application that matches the color scheme of one image to another. It utilizes the ColorThief library to extract a color palette from a primary image and applies those colors to a secondary image. Users can view the modified image and download it in its new color scheme.
 
+This project is published and accessible at [https://harryme17.github.io/color-grado/](https://harryme17.github.io/color-grado/).
+
 ## Features
 
 - Upload a primary image to extract a color palette.
