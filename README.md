@@ -72,4 +72,4 @@ Color Grado is a web application that matches the color scheme of one image to a
 
 For questions or issues, please contact me at [meharshal1703@gmail.com](mailto:meharshal1703@gmail.com).
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/harshal-menge/).
